@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import AFNetworkingSession
 
 struct Rest___VARIABLE_productName: identifier___Service: BaseRestService {
     let restClient: NetworkingSessionProtocol

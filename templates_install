@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# exit when any command fails
+set -e
+
+folderName=$(dirname $0)
+scriptName="templates_install.rb"
+
+cd $folderName
+ruby "$folderName/$scriptName"

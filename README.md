@@ -1,12 +1,7 @@
 # XCODE-TEMPLATES-IOS
 
 
-- [Install](#install)
+- [Usage](#usage)
 
-## Install
-
-```sh
-# Run this script to install the templates:
-
-bash templates_install.sh
-```
+## Usage
+Run script to install templates ``` bash templates_install.sh ``` or double click on `templates_install` file.
